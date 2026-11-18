@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Morsun_op.aternos.me:37458",
+    "port": 37458,
     "version": "1.20.1",
     "try-creative": false
   },
